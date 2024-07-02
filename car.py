@@ -7,10 +7,10 @@ def __init__(self,make,model,year,color):
   elf.color = color
 
 def = drive(self):
-  print("This Car is Driving")
+  print("This "+self.model+" is Driving")
 
 def stop(self):
-  print("This Car is Stopped")
+  print("This "+self.model+" is Stopped")
   
   
   
